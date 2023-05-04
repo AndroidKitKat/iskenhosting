@@ -49,7 +49,7 @@ export default {
 		</style>
 	  </head>
 	  <body>
-		<p>No :(</p>
+		<p>No :-(</p>
 	  </body>
 	</html>
 `;
